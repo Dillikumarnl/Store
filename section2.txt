@@ -1,1 +1,1 @@
-Second thing is to modify the column of the master.
+Second thing is to modify the column of the master with students.
